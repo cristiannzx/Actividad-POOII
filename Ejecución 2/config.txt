@@ -1,0 +1,5 @@
+{
+    "numero_de_jugadores": 2,
+    "tipo_de_figuras": ["pan", "palta", "huevo", "pocop"],
+    "valor_para_ganar": 10
+}
