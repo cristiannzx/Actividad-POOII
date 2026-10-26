@@ -1,0 +1,23 @@
+N;Porkis;restaurante;-14.23;-85.21
+P;Pollo a la Braza;12;0
+P;Pollo Broster;10;0
+P;SalchiPollo;5;0
+N;Botickvoid;Farmacia;-10.94;-65.25
+N;TecnoPata;Tienda;-22.67;-67.67
+P;Cargador;7;18
+P;Bateria;10;26
+N;Botickmedic;farmacia;-15.839;-70.02808
+P;Paracetamol;4;50
+C;Jua;987654321;1.2;12.4
+C;Manuel;935784154;-14.32;-36.35
+C;Pablo Perez;987456123;-15.845;-70.025
+M;Pablo;moto;154FG;1.2;12.4;1
+M;Tyron;moto;1515YTR;1.2;12.4;1
+M;jsopep;bicicleta;231l¤k;1.2;12.4;1
+M;Pedro;auto;1245GH;-12.32;-53.45;1
+O;1;Jua;TecnoPata;Pablo;0;0;9041.730541;13565.59581;3
+I;Cargador;7;2
+O;2;Jua;TecnoPata;Tyron;0;1;9041.730541;13565.59581;3
+I;Bateria;10;4
+O;3;Jua;Porkis;jsopep;0;2;10860.5277;16293.79155;3
+I;Pollo Broster;10;2

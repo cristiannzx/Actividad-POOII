@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1792983820 source:d:\documentos\pooii\miniproyectodelyveri\main.cpp
+	<iostream>
+	<string>
+	"Sistema.h"
+	"Menu.h"
+	"Utilidades.h"
+
+1792983820 d:\documentos\pooii\miniproyectodelyveri\include\sistema.h
+	<string>
+	"Config.h"
+	"Negocio.h"
+	"Cliente.h"
+	"Mensajero.h"
+	"Orden.h"
+
+1792983820 d:\documentos\pooii\miniproyectodelyveri\include\config.h
+	<string>
+
+1792983820 d:\documentos\pooii\miniproyectodelyveri\include\negocio.h
+	<string>
+	<iosfwd>
+	"Config.h"
+	"Entidad.h"
+	"Producto.h"
+
+1792983820 d:\documentos\pooii\miniproyectodelyveri\include\entidad.h
+	<string>
+	"Ubicacion.h"
+
+1792983820 d:\documentos\pooii\miniproyectodelyveri\include\ubicacion.h
+
+1792983820 d:\documentos\pooii\miniproyectodelyveri\include\producto.h
+	<string>
+
+1792983820 d:\documentos\pooii\miniproyectodelyveri\include\cliente.h
+	<string>
+	<iosfwd>
+	"Entidad.h"
+
+1792983820 d:\documentos\pooii\miniproyectodelyveri\include\mensajero.h
+	<string>
+	<iosfwd>
+	"Entidad.h"
+
+1792983820 d:\documentos\pooii\miniproyectodelyveri\include\orden.h
+	<string>
+	<iosfwd>
+	"Config.h"
+
+1792983820 d:\documentos\pooii\miniproyectodelyveri\include\menu.h
+	<string>
+
+1792983820 d:\documentos\pooii\miniproyectodelyveri\include\utilidades.h
+	<string>
+
+1792983820 source:d:\documentos\pooii\miniproyectodelyveri\src\cliente.cpp
+	<iostream>
+	"Cliente.h"
+
+1792983820 source:d:\documentos\pooii\miniproyectodelyveri\src\entidad.cpp
+	<iostream>
+	"Entidad.h"
+
+1792983820 source:d:\documentos\pooii\miniproyectodelyveri\src\mensajero.cpp
+	<iostream>
+	"Mensajero.h"
+
+1792983820 source:d:\documentos\pooii\miniproyectodelyveri\src\menu.cpp
+	<iostream>
+	"Menu.h"
+	"Utilidades.h"
+
+1792983820 source:d:\documentos\pooii\miniproyectodelyveri\src\negocio.cpp
+	<iostream>
+	<iomanip>
+	"Negocio.h"
+	"Utilidades.h"
+
+1792983820 source:d:\documentos\pooii\miniproyectodelyveri\src\orden.cpp
+	<iostream>
+	<sstream>
+	<iomanip>
+	"Orden.h"
+
+1792983820 source:d:\documentos\pooii\miniproyectodelyveri\src\producto.cpp
+	"Producto.h"
+
+1792983820 source:d:\documentos\pooii\miniproyectodelyveri\src\sistema.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	"Sistema.h"
+	"Utilidades.h"
+
+1792983820 source:d:\documentos\pooii\miniproyectodelyveri\src\ubicacion.cpp
+	<cmath>
+	"Ubicacion.h"
+
+1792983820 source:d:\documentos\pooii\miniproyectodelyveri\src\utilidades.cpp
+	<iostream>
+	<cstdlib>
+	<cctype>
+	"Utilidades.h"
+

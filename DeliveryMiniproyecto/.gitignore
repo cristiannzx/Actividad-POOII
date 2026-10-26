@@ -1,0 +1,9 @@
+bin/
+obj/
+*.exe
+*.o
+*.layout
+*.depend
+# archivos que genera el programa al ejecutarse
+ordenes.txt
+datos.txt

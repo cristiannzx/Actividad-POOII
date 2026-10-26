@@ -1,0 +1,12 @@
+1;Jua;TecnoPata;Pablo;2xCargador;9041.73;13579.60;Pendiente
+2;Jua;TecnoPata;Tyron;4xBateria;9041.73;13605.60;Pendiente
+1;Jua;TecnoPata;Pablo;2xCargador;9041.73;13579.60;Preparando
+1;Jua;TecnoPata;Pablo;2xCargador;9041.73;13579.60;En camino
+3;Jua;Porkis;jsopep;2xPollo Broster;10860.53;16313.79;Pendiente
+1;Jua;TecnoPata;Pablo;2xCargador;9041.73;13579.60;Entregado
+2;Jua;TecnoPata;Tyron;4xBateria;9041.73;13605.60;Preparando
+2;Jua;TecnoPata;Tyron;4xBateria;9041.73;13605.60;En camino
+2;Jua;TecnoPata;Tyron;4xBateria;9041.73;13605.60;Entregado
+3;Jua;Porkis;jsopep;2xPollo Broster;10860.53;16313.79;Preparando
+3;Jua;Porkis;jsopep;2xPollo Broster;10860.53;16313.79;En camino
+3;Jua;Porkis;jsopep;2xPollo Broster;10860.53;16313.79;Entregado
