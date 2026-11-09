@@ -5,12 +5,11 @@
 using namespace std;
 
 int main() {
-    // 12 paises, pero la inicialización solo incluye 10
     array<string, 12> paises = {"Argentina", "Bolivia", "Brasil", "Chile",
                                 "Colombia", "Ecuador", "Guyana", "Paraguay",
                                 "Peru", "Surinam"};
 
-    //cout << "a. Insertar los restantes con at() y con []:" << endl;
+    //"a. Insertar los restantes con at() y con []:" << endl;
     paises.at(10) = "Uruguay";
     paises[11] = "Venezuela";
 
