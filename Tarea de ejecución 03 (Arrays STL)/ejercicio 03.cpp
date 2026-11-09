@@ -13,7 +13,6 @@ struct Estudiante {
 };
 
 int main() {
-    // Inicialización con solo 2 estudiantes
     array<Estudiante, 10> est = {{{"Juan", 2000, 3.4}, {"Maria", 2005, 2.8}}};
     size_t pos = 2;
 
